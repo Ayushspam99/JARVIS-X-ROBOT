@@ -1,9 +1,9 @@
 {
    "name": "JARVIS ROGBO",
    "description": "A Telegram Group Management RoBot.",
-   "logo": "https://telegra.ph/file/64dcb13558013d1e567c6.jpg",
-   "keywords": ["telegram", "helper", "group", "management", "Jarvis"],
-   "repository": "https://github.com/JARVIS-V2/JARVIS-ROBO",
+   "logo": "https://telegra.ph/file/20e905f22c14c40d9bba7.jpg",
+   "keywords": ["telegram", "helper", "group", "management", "DRAGON"],
+   "repository": "https://github.com/Ayushspam99/JARVIS-X-ROBOT",
    "stack": "heroku-22",
    "addons": [
       {
